@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.mlr.press/superjp/sitemap.xml
+Sitemap: https://ftp.mlr.press/gilajp/sitemap.xml
+Sitemap: https://ftp.mlr.press/gojekpot/sitemap.xml
+Sitemap: https://ftp.mlr.press/winstrike69/sitemap.xml
+Sitemap: https://ftp.mlr.press/jagoan86/sitemap.xml
+Sitemap: https://ftp.mlr.press/kaptenjackpot/sitemap.xml
+Sitemap: https://ftp.mlr.press/boosterjp/sitemap.xml
+Sitemap: https://ftp.mlr.press/kerajaanslot/sitemap.xml
+Sitemap: https://ftp.mlr.press/pakong86/sitemap.xml
+Sitemap: https://ftp.mlr.press/viral88/sitemap.xml
+Sitemap: https://ftp.mlr.press/clan4d/sitemap.xml
+Sitemap: https://ftp.mlr.press/dinamit4d/sitemap.xml
+Sitemap: https://ftp.mlr.press/elang212/sitemap.xml
+Sitemap: https://ftp.mlr.press/gori77/sitemap.xml
+Sitemap: https://ftp.mlr.press/viral4d/sitemap.xml
+Sitemap: https://ftp.mlr.press/playground88/sitemap.xml
